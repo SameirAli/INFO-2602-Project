@@ -17,3 +17,7 @@ Roles:
 
 Goal of project:
   To create a movie rating site similar to IMDB.
+
+
+Progress:
+ Obtained a movie API
