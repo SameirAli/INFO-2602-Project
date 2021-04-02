@@ -20,4 +20,6 @@ Goal of project:
 
 
 Progress:
- Obtained a movie API
+ * Obtained a movie API
+ * Created UML Class Diagrams
+ * Created Wireframe Diagrams
