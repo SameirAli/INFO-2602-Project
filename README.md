@@ -1,6 +1,6 @@
 # INFO-2602-Project
 
-Application Title: Working title: Movie Application
+Application Title: ACBd
 
 Group Name: The Elite Four
 
