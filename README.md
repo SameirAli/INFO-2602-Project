@@ -11,8 +11,11 @@ IDs: 816016854, 816018360, 816022840, 816021689
 
 Roles:
  Shiv: Marketing, UI Logic, UI Design, Lead
+ 
  Brandon: UI Design, UI Logic, Lead
+ 
  Sameir: Server-Side Implementation, UI Implementation, UI Design, Lead
+ 
  Tim: DevOps, Marketing, UI Design, Lead
 
 Goal of project:
