@@ -1,0 +1,1 @@
+Run the main.py to get it started
