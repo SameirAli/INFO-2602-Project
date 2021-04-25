@@ -1,2 +1,0 @@
-https://github.com/b166er-droid/DeployProject
-https://abcd-movies.herokuapp.com/
